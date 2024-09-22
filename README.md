@@ -1,6 +1,6 @@
 <h1 align="center">I'm Wali</h1>
 
-<img align=“right” alt=“Coding” width=“400” src="https://www.google.com/url?sa=i&url=https%3A%2F%2Ftenor.com%2Fview%2Fmonkey-developer-software-coding-debug-gif-15160023&psig=AOvVaw3zfszzLZhjl30LUbw6WXBB&ust=1727091497709000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCLjwnKu71ogDFQAAAAAdAAAAABAE)”>
+<img align=“right” alt=“Coding” width=“400” src="https://images.app.goo.gl/Vcn84V8C5wrLmyQd6”>
 
 <p align="left"> <a href="https://twitter.com/wali0humaid" target="blank"><img src="https://img.shields.io/twitter/follow/wali0humaid?logo=twitter&style=for-the-badge" alt="wali0humaid" /></a> </p>
 
