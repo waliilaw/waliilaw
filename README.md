@@ -1,6 +1,6 @@
 <h1 align="center">I'm Wali</h1>
 
-<img align=“right” alt=“Coding” width=“400” src=“https://i.gifer.com/PDE.gif”
+<img align=“right” alt=“Coding” width=“400” src=“https://i.gifer.com/PDE.gif”>
 
 <p align="left"> <a href="https://twitter.com/wali0humaid" target="blank"><img src="https://img.shields.io/twitter/follow/wali0humaid?logo=twitter&style=for-the-badge" alt="wali0humaid" /></a> </p>
 
