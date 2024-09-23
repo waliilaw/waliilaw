@@ -1,5 +1,5 @@
 <h1 align="center">Hi !!! 👋🏻 , I'm Wali</h1>
-#  About Me:
+# About Me:
 I'm 1st year CSE student<br>Learning Web Dev and DSA
 
 
