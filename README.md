@@ -1,8 +1,5 @@
 <h1 align="center">I'm Wali</h1>
 
-<img align=“right” alt=“Coding” width=“400” src="https://user-images.githubusercontent.com/3717296/51637247-397b1a80-1f29-11e9-90ed-7f0d16b0ef52.gif
-”>
-
 <p align="left"> <a href="https://twitter.com/wali0humaid" target="blank"><img src="https://img.shields.io/twitter/follow/wali0humaid?logo=twitter&style=for-the-badge" alt="wali0humaid" /></a> </p>
 
 - Gmail : **humaidwali20@gmail.com**
