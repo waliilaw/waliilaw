@@ -1,4 +1,4 @@
-<h1 align="center">HI 👋🏻 ,I'm Wali</h1>
+<h1 align="center">Hi !!! 👋🏻 , I'm Wali</h1>
 #  About Me:
 I'm 1st year CSE student<br>Learning Web Dev and DSA
 
