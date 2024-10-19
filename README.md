@@ -17,4 +17,4 @@ I'm 1st year CSE <br>Noob at Coding
 ![](https://github-contributor-stats.vercel.app/api?username=waliilaw&limit=5&theme=transparent&combine_all_yearly_contributions=true)
 
 ---
-![](https://visitcount.itsvg.in/api?id=waliilaw&icon=0&color=0)
+
