@@ -1,5 +1,7 @@
 <h1 align="center">Hi !!! 👋🏻 , I'm Wali</h1>
 
+![](https://visitcount.itsvg.in/api?id=waliilaw&icon=0&color=0)
+
 # About Me:
 I'm 1st year CSE <br>Noob at Coding 
 
