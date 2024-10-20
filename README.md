@@ -16,6 +16,8 @@ I'm a 1st-year CSE student and a noob at coding.
   <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript" />
   <img src="https://img.shields.io/badge/react-%2320232a.svg?style=plastic&logo=react&logoColor=%2361DAFB" alt="React" />
   <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=plastic&logo=mongodb&logoColor=white" alt="MongoDB" />
+
+  ![Express](https://img.shields.io/badge/Express.js-%23404d59.svg?style=plastic&logo=express&logoColor=white)
 </p>
 
 
