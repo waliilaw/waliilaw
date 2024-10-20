@@ -1,5 +1,6 @@
 <h1 align="center">Hi !!! 👋🏻 , I'm Wali</h1>
 
+![hello](https://i.pinimg.com/originals/59/cc/f3/59ccf3d44d925f12f6e62bebe815670c.gif)
 ![](https://visitcount.itsvg.in/api?id=waliilaw&icon=0&color=0)
 
 # About Me:
