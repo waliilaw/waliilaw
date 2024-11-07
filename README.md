@@ -14,9 +14,4 @@
 # 📊 GitHub Stats:
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=waliilaw&theme=transparent&hide_border=true&include_all_commits=true&count_private=true&layout=compact&cache_seconds=1800)
 
-
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=waliilaw&limit=5&theme=transparent&combine_all_yearly_contributions=true)
-
 ---
