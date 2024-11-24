@@ -1,8 +1,9 @@
 <h1 align="center">Hi !!! 👋🏻 , I'm Wali</h1>
 
 <p align="center">
-![](https://github.com/user-attachments/assets/cc7feebe-760b-4947-b768-d45d171c729a)
 
+![](https://i.pinimg.com/originals/84/66/77/846677be580a25dba404be59bda8cf60.gif![image](https://github.com/user-attachments/assets/ce42404e-dc82-4bb4-af74-37c3506c8a86)
+)
   <img src="https://visitcount.itsvg.in/api?id=waliilaw&icon=3&color=2" alt="Visitor Count" width="40%" />
 </p>
 
