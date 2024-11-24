@@ -8,7 +8,6 @@
 
 # About Me:
 <h3>Mern Dev</h3>
-<br>
 <h3>Currently learning AWS</h3>
 
 # 💻 Tech Stack:
