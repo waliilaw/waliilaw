@@ -1,7 +1,7 @@
 <h1 align="center">Hi !!! 👋🏻 , I'm Wali</h1>
 
 <p align="center">
-  <img src="https://i.pinimg.com/originals/84/66/77/846677be580a25dba404be59bda8cf60.gif" alt="GIF" style="width: 80%;" />
+  <img src="https://i.pinimg.com/originals/84/66/77/846677be580a25dba404be59bda8cf60.gif" alt="GIF" style="width: 120%;" />
   <br />
   <img src="https://visitcount.itsvg.in/api?id=waliilaw&icon=3&color=2" alt="Visitor Count" width="40%" />
 </p>
