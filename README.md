@@ -1,7 +1,7 @@
 <h1 align="center">Hi !!! 👋🏻 , I'm Wali</h1>
 
 <p align="center">
-![846677be580a25dba404be59bda8cf60](https://github.com/user-attachments/assets/cc7feebe-760b-4947-b768-d45d171c729a)
+![](https://github.com/user-attachments/assets/cc7feebe-760b-4947-b768-d45d171c729a)
 
   <img src="https://visitcount.itsvg.in/api?id=waliilaw&icon=3&color=2" alt="Visitor Count" width="40%" />
 </p>
