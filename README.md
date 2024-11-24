@@ -1,4 +1,4 @@
-<h1 align="center">I'm Wali 𒌐</h1>
+<h1 align="center">I'm Wali ワリ</h1>
 
 <p align="center">
   <img src="https://i.pinimg.com/originals/84/66/77/846677be580a25dba404be59bda8cf60.gif" alt="GIF" style="width: 120%;" />
