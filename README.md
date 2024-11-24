@@ -3,7 +3,7 @@
 <p align="center">
 
 
-[image](https://github.com/user-attachments/assets/0011e71f-3273-4855-978c-0479afd87def)
+![image](https://github.com/user-attachments/assets/0011e71f-3273-4855-978c-0479afd87def)
 
   <img src="https://visitcount.itsvg.in/api?id=waliilaw&icon=3&color=2" alt="Visitor Count" width="40%" />
 </p>
