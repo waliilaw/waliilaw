@@ -7,7 +7,7 @@
 <h3 align="center">Mern Dev</h3>
 <h3 align="center">Currently learning AWS</h3>
 <h3 align="center">Grinding Leetcode</h3>
-
+<br>
 <p align="center">
   <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=plastic&logo=c%2B%2B&logoColor=white" alt="C++" />
   <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript" />
