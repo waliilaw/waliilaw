@@ -2,7 +2,7 @@
 <p align="center">
   <img src="https://i.pinimg.com/originals/84/66/77/846677be580a25dba404be59bda8cf60.gif" alt="GIF" style="width: 120%;" />
   <br />
-  <img src="https://visitcount.itsvg.in/api?id=waliilaw&icon=3&color=2" alt="Visitor Count" width="40%" />
+  <img src="https://profile-counter.glitch.me/{waliilaw}/count.svg" alt="Visitor Count" width="40%" />
 </p>
 <h3 align="center">Mern Dev</h3>
 <h3 align="center">Currently learning AWS</h3>
