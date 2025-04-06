@@ -4,7 +4,7 @@
   <br />
 <!--   <img src="https://profile-counter.glitch.me/{waliilaw}/count.svg" alt="Visitor Count" width="40%" /> -->
 </p>
-<h3 align="center">WebDev / Web3</h3>
+<h3 align="center">WebDev / Web3 / MobileDev</h3>
 <h3 align="center">Currently learning SOLIDITY</h3>
 <h3 align="center">Grinding Leetcode</h3>
 <br>
